@@ -1,7 +1,7 @@
 # Instance Localization for Self-supervised Detection Pretraining
 
 ![image](./docs/figures/teaser.png)
-[paper]
+[[Paper](https://arxiv.org/pdf/2102.08318.pdf)]
 
 ## News
 - Full codebase and models are coming soon
@@ -50,7 +50,7 @@ More results are available in our paper.
 @inproceedings{yang2021insloc,
   title={Instance Localization for Self-supervised Detection Pretraining},
   author={Yang, Ceyuan and Wu, Zhirong and Zhou, Bolei and Lin, Stephen},
-  booktitle={arXiv preprint},
+  booktitle={arXiv preprint arXiv:2102.08318},
   year={2021},
 }
 ```
