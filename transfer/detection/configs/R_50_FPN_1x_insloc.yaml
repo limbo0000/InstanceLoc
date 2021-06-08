@@ -1,0 +1,7 @@
+_BASE_: "R_50_FPN_1x_pretrained.yaml"
+MODEL:
+  ROI_BOX_HEAD:
+    NAME: "FastRCNNConvFCHeadExtraNorm"
+    NUM_CONV: 4
+    NUM_FC: 1
+    NORM: "SyncBN"
